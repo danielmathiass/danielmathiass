@@ -22,12 +22,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
-
-<br/>
-
 <details>
 <summary><strong>Um pouco sobre mim</strong></summary>
 
